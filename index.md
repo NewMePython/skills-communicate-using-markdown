@@ -4,3 +4,4 @@
 #### It works like Obsidian MD
 ##### Funny how a lot of things work in a similar manner
 ###### Peace out :v:
+![Image of Tony Stark as a cat](https://octodex.github.com/images/Fintechtocat.png)
