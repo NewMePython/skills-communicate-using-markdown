@@ -8,3 +8,7 @@
 ```python
 print('This is my third task in this and still feels like using Obsidian MD')
 ```
+- [x] Started with Headers
+- [x] Learning new things about Markdown
+- [x] Still Learning
+- [ ] Stop Learning
